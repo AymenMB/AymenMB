@@ -6,7 +6,7 @@
 
 <h1 align="center">
   <img src="./assets/logo.png" alt="Aymen Logo" width="50" height="50" >
-  Welcome! I'm <a href="https://aymen-portfolio-sage.vercel.app/">Aymen Mabrouk</a> 
+  Welcome! I'm <a href="https://www.aymenmabrouk.me/">Aymen Mabrouk</a> 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="vertical-align: text-bottom;">
 </h1>
 
@@ -140,7 +140,7 @@ Smart manufacturing solutions with predictive analytics
 ### 🚀 Explore My Amazing Work
 
 <div style="margin: 20px 0;">
-  <a href="https://aymen-portfolio-sage.vercel.app/">
+  <a href="https://www.aymenmabrouk.me/">
     <img src="https://img.shields.io/badge/�_CLICK_ME!-See_My_Portfolio_Live-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white&labelColor=FF1744&color=4CAF50&animationDuration=1s" alt="Click to see portfolio" style="animation: pulse 2s infinite;" />
   </a>
  
@@ -205,7 +205,7 @@ Smart manufacturing solutions with predictive analytics
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00A3FF?style=for-the-badge&logo=vercel&logoColor=white)](https://aymen-portfolio-sage.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00A3FF?style=for-the-badge&logo=vercel&logoColor=white)](https://www.aymenmabrouk.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymen-mabrouk-91102b23b/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AymenMB)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aymenmabrouk375@gmail.com)
