@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/cover.png" alt="Aymen Mabrouk - AI & Automation Engineer" width="100%">
+  <img src="./assets/cover2.png" alt="Aymen Mabrouk - AI & Automation Engineer" width="100%">
 </div>
 
 <br><br>
@@ -129,13 +129,6 @@ Shipping responsive web and mobile AI products using React, Next.js, Angular, Fl
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="175em" src="https://github-stats-extended.vercel.app/api?username=AymenMB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Aymen's GitHub Stats" />
-  <img height="175em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AymenMB&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ## 🎯 Featured Projects
