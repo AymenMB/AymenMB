@@ -155,24 +155,6 @@ Shipping responsive web and mobile AI products using React, Next.js, Angular, Fl
 | 🎾 **Sports Analytics Platform** | Deep-learning tennis & padel match analytics (ball tracking, bounce detection, 2D mapping) | Python, OpenCV, TensorFlow, YOLOv8, CatBoost |
 | 🚗 **[Smart Parking & ANPR Microservices](https://github.com/AymenMB/Vehicle-Entry-Exit-Registration-System---Microservices-)** | IoT parking & vehicle entry/exit recognition system achieving 98.5% OCR accuracy | OpenVINO, FastAPI, Flutter, Next.js, PostgreSQL, Redis |
 
-## 🧭 Education & Engineering Journey
-
-```text
-🤖 2025–Present │ Independent AI & Automation Engineering
-                │ • Agentic tools & MCP agent / sub-agent architectures
-                │ • GPU-accelerated inference workloads & distributed pipelines
-                │ • Enterprise N8N workflows, Hybrid RAG & multimodal systems
-                │
-🎓 2023–2026    │ Engineering Degree in Data Science @ Polytechnique Sousse
-                │ • EUR-ACE Accredited | Deep Learning, Computer Vision & MLOps
-                │
-🎓 2023–2025    │ Master's Degree in Software Engineering @ ISIMM
-                │ • Distributed Systems, Microservices & Full-Stack Architecture
-                │
-🎓 2020–2023    │ B.S. in Computer Science @ ESST Hammam Sousse
-                │ • Algorithms, Software Architecture, Databases & IoT Systems
-```
-
 ## 🌟 Achievements & Recognition
 
 🤖 **Agentic & Automation Specialist**: Architected production MCP agent/sub-agent systems and high-volume N8N workflows  
