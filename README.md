@@ -67,7 +67,8 @@ Shipping responsive web and mobile AI products using React, Next.js, Angular, Fl
 | **Azure AI Apps and Agents Developer Associate (`AI-103`)** | Microsoft | Generative AI, Agentic Workflows & Azure AI Solutions |
 | **Azure Administrator Associate (`AZ-104`)** | Microsoft | Cloud Infrastructure, Compute, Networking & Governance |
 | **SQL AI Developer Associate (`DP-800`)** | Microsoft | Data Engineering, Vector Search & AI-Enabled Databases |
-| **OCI Generative AI & Data Science Professional** | Oracle | Multiple Oracle Cloud Infrastructure Professional AI/ML Credentials |
+| **Oracle Cloud Infrastructure Generative AI Professional** | Oracle | LLMs, RAG Pipelines & OCI Generative AI Services |
+| **Oracle Cloud Infrastructure Data Science Professional** | Oracle | End-to-End Machine Learning, Model Training & MLOps on OCI |
 
 ## 🛠️ Tech Arsenal
 
